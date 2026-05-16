@@ -1,0 +1,136 @@
+
+#EXTM3U
+EXTINF:-1,TRT1 HD 
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+EXTINF:-1,TRT1 HD 
+https://tv-trt1.medya.trt.com.tr/master_480.m3u8
+EXTINF:-1,TRT Muzik
+https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
+EXTINF:-1,TRT BELGESEL
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master_3.m3u8
+EXTINF:-1,TRT KURDI
+https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
+EXTINF:-1,TRTSPOR
+https://yayin2.canlitv.fun/live/trtspor.stream/chunklist_w1743430629.m3u8
+EXTINF:-1,S SPORT
+https://yayin2.canlitv.fun/live/tivibuspor.stream/chunklist_w416109437.m3u8
+EXTINF:-1,KANAL D HD
+ https://trn03.tulix.tv/gt-kanald-1tv/playlist.m3u8
+ EXTINF:-1,KANAL D 
+ https://yayin2.canlitv.fun/live/kanald.stream/chunklist_w876848834.m3u8
+ EXTINF:-1, STAR TV HD
+ http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
+EXTINF:-1,ATV HD 
+ http://89.187.191.41/ATV-HD-TR/video.m3u8
+ EXTINF:-1,ATV 
+ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+EXTINF:-1,SHOW TV HD
+ https://trn03.tulix.tv/gt-showtvs/index.m3u8
+ EXTINF:-1,SHOW TV HD
+ https://yayin2.canlitv.fun/live/showtv.stream/chunklist_w1092624906.m3u8
+ EXTINF:-1,360
+ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+ EXTINF:-1,Sat7turk
+ https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/chunks.m3u8
+EXTINF:-1,NOW TV HD 
+http://87.246.54.249:8080/NOW/index.m3u8
+EXTINF:-1,TV8 HD
+http://89.187.191.41/TV8-HD-TR/video.m3u8
+EXTINF:-1,TV8 ⁵
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+EXTINF:-1,TLC HD 
+https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
+EXTINF:-1,DMAX HD 
+http://116.202.238.88/DMAX_TR/index.m3u8
+EXTINF:-1,HABER GLOBAL HD
+ http://ensonhaber-live.ercdn.net/hab...obal_720p.m3u8
+EXTINF:-1,HABERTURK HD
+ http://ensonhaber-live.ercdn.net/hab...turk_720p.m3u8
+EXTINF:-1,NTV HD 
+https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3
+EXTINF:-1,CNNTURK HD 
+http://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+EXTINF:-1,HALKTV HD 
+http://halktv-live.daioncdn.net/halktv/halktv.m3u8
+EXTINF:-1,SOZCU TV HD 
+http://streams.uzunmuhalefet.com/str...9ea68492a.m3u8
+EXTINF:-1,Flashtv
+https://yayin2.canlitv.fun/live/flashtv.stream/chunklist_w1836566286.m3u8
+EXTINF:-1,Tele1
+https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+EXTINF:-1,Cemtv
+https://tv.cemtv.net:19360/cemtv/cemtv.m3u8
+EXTINF:-1,ULUSAL KANAL HD 
+http://116.202.238.88/ULUSALTV_TR/index.m3u8
+EXTINF:-1,A HABER HD
+ http://162.212.179.33/gin-dvrfl05/gin-ahaber/tracks-v1a1/rewind-8800.m3u8
+EXTINF:-1,TRT HABER HD 
+http://tv-trthaber.medya.trt.com.tr/master.m3u8
+EXTINF:-1,TV100 HD 
+http://tv100-live.daioncdn.net/tv100/tv100.m3u8
+EXTINF:-1,FLASH TV HD
+ http://flashhaber-live.ercdn.net/fla...lashhaber.m3u8
+EXTINF:-1,24TV HD 
+http://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+EXTINF:-1,TGRT HABER HD
+https://canli.tgrthaber.com/tgrt.m3u8
+EXTINF:-1,TVNET HD
+ http://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+EXTINF:-1,MK TV HD 
+http://live.artidijitalmedya.com/art...iz/chunks.m3u8
+EXTINF:-1,ULKE TV HD 
+http://livetv.radyotvonline.net/kana.../playlist.m3u8
+EXTINF:-1,LIDER HABER HD 
+http://nrttn172.kesintisizyayin.com:...-f5-v1-a1.m3u8
+EXTINF:-1,TURK HABER HD 
+https://edge1.socialsmart.tv/turkhab...t1/chunks.m3u8
+EXTINF:-1,NEO HABER HD 
+https://edge.socialsmart.tv/neohaber/bant1/chunks.m3u8
+EXTINF:-1,EGEMAX TV HD 
+http://egemaxtv.radyotelekom.com.tr:.../playlist.m3u8
+EXTINF:-1,ILKE TV HD 
+http://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+EXTINF:-1,TELENEWS HD 
+http://cdn-telenews.yayin.com.tr/tel...v1a1/mono.m3u8
+EXTINF:-1,BENGUTURK TV HD 
+http://ensonhaber-live.ercdn.net/ben...turk_720p.m3u8
+EXTINF:-1,AKIT TV HD 
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+EXTINF:-1,GZTTV
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/chunklist.m3u8
+EXTINF:-1, Cine1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
+EXTINF:-1, ARD DE
+https://s6.hopslan.com/ardX/tracks-a3/mono.m3u8
+EXTINF:-1,ZDF DE
+https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
+EXTINF:-1,ZDF Infi DE
+https://s6.hopslan.com/zdfinfoX/tracks-a3/mono.m3u8
+EXTINF:-1,RTL DE
+https://s6.hopslan.com/rtla111/tracks-v1a1/mono.m3u8
+EXTINF:-1,RTL2 DE
+https://s6.hopslan.com/rtl2q/tracks-v1a1/mono.m3u8
+EXTINF:-1,RTL Nitro DE
+https://s6.hopslan.com/nitro1/tracks-v1a1/mono.m3u8
+EXTINF:-1,SUPER RTL DE
+https://s6.hopslan.com/superX/tracks-v1a1/mono.m3u8
+EXTINF:-1,SAT1 DE
+https://s6.hopslan.com/sat1z/tracks-v1a1/mono.m3u8
+EXTINF:-1,SAT1 Gold DE
+https://s6.hopslan.com/goldX/tracks-v1a1/mono.m3u8
+EXTINF:-1, PRO7 DE
+https://s6.hopslan.com/pro7z/tracks-v1a1/mono.m3u8
+EXTINF:-1, 7MAX DE
+https://s6.hopslan.com/pro7maxxX/tracks-v1a1/mono.m3u8
+EXTINF:-1,FOXTV DE
+https://s6.hopslan.com/voxz/tracks-v1a1/mono.m3u8
+EXTINF:-1,Kabel 1 DE
+https://s6.hopslan.com/kabel1z/tracks-v1a1/mono.m3u8
+EXTINF:-1,Kabel 1 DOKU DE
+https://s6.hopslan.com/dokuX/tracks-v1a1/mono.m3u8
+EXTINF:-1, WELT DE
+https://s6.hopslan.com/n24X/tracks-v1a1/mono.m3u8
+EXTINF:-1, NTV DE
+https://s6.hopslan.com/ntvX/tracks-v1a1/mono.m3u8
+EXTINF:-1, SIXXTV DE
+https://s6.hopslan.com/sixX/tracks-v1a1/mono.m3u8
